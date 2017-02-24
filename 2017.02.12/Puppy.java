@@ -22,3 +22,5 @@ public class Puppy{
 		
 	}
 }
+
+//out put is :
